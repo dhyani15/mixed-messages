@@ -10,7 +10,7 @@ JS program that can generate a ranom Rapper name!
 
 ## General Info ##
 
-This is a project inspired while I was completing codecademy backend engineering course.
+This is project was inspired while I was completing codecademy backend engineering course.
 
 The program generates a random rapper name from a list of common words found in today's popular rappers.
 
